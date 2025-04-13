@@ -1,5 +1,5 @@
 {
-  "name": "@posty/dependency-extraction-css-hash-fixer-webpack-plugin",
+  "name": "@posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin",
   "version": "1.0.0",
   "description": "A Webpack plugin to fix CSS hash references in extracted CSS files using the @wordpress/scripts package.",
   "author": "Daniel Post <daniel@posty.studio>",
