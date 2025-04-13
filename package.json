@@ -1,0 +1,27 @@
+{
+  "name": "@posty/dependency-extraction-css-hash-fixer-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin to fix CSS hash references in extracted CSS files using the @wordpress/scripts package.",
+  "author": "Daniel Post <daniel@posty.studio>",
+  "main": "index.js",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "wordpress",
+    "gutenberg",
+    "webpack",
+    "dependency",
+    "css"
+  ],
+  "homepage": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/issues"
+  },
+  "engines": {
+    "node": ">=18.12.0",
+    "npm": ">=8.19.2"
+  }
+}
