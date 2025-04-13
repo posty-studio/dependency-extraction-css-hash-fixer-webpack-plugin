@@ -18,7 +18,7 @@ npm install @posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin --
 
 ```javascript
 const defaultConfig = require("@wordpress/scripts/config/webpack.config");
-const DependencyExtractionCssHashFixerWebpackPlugin = require("@posty/dependency-extraction-css-hash-fixer-webpack-plugin");
+const DependencyExtractionCssHashFixerWebpackPlugin = require("@posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin");
 const RemoveEmptyScriptsPlugin = require("webpack-remove-empty-scripts");
 const path = require("path");
 
