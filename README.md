@@ -11,7 +11,7 @@ This plugin fixes that by using the contents of the CSS file to generate the has
 Install the module:
 
 ```bash
-npm install @posty/dependency-extraction-css-hash-fixer-webpack-plugin --save-dev
+npm install @posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin --save-dev
 ```
 
 ## Usage
