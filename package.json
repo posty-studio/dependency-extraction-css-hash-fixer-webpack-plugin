@@ -15,7 +15,7 @@
   "homepage": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin.git"
+    "url": "git+https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin.git"
   },
   "bugs": {
     "url": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/issues"
