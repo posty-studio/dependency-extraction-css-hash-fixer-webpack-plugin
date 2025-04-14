@@ -12,7 +12,7 @@
     "dependency",
     "css"
   ],
-  "homepage": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/README.md",
+  "homepage": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin/",
   "repository": {
     "type": "git",
     "url": "https://github.com/posty-studio/dependency-extraction-css-hash-fixer-webpack-plugin.git"
